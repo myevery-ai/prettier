@@ -1,0 +1,25 @@
+{
+  "name": "@myevery/prettier",
+  "version": "0.0.0",
+  "description": "Prettier Configuration for myevery",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myevery-ai/prettier.git"
+  },
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": "@myevery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myevery-ai/prettier/issues"
+  },
+  "homepage": "https://github.com/myevery-ai/prettier#readme"
+}
